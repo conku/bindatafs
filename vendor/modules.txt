@@ -1,0 +1,40 @@
+# github.com/aymerick/douceur v0.2.0
+github.com/aymerick/douceur/css
+github.com/aymerick/douceur/parser
+# github.com/conku/gorm v1.2.0
+## explicit
+github.com/conku/gorm
+# github.com/conku/inflection v1.0.1
+## explicit
+github.com/conku/inflection
+# github.com/conku/now v1.2.0
+## explicit
+github.com/conku/now
+# github.com/conku/qor v1.2.0
+## explicit
+github.com/conku/qor
+github.com/conku/qor/utils
+# github.com/denisenkom/go-mssqldb v0.10.0
+## explicit
+# github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
+## explicit
+# github.com/go-sql-driver/mysql v1.6.0
+## explicit
+# github.com/gorilla/css v1.0.0
+github.com/gorilla/css/scanner
+# github.com/gosimple/slug v1.9.0
+## explicit
+github.com/gosimple/slug
+# github.com/lib/pq v1.10.1
+## explicit
+# github.com/mattn/go-sqlite3 v1.14.7
+## explicit
+# github.com/microcosm-cc/bluemonday v1.0.9
+## explicit
+github.com/microcosm-cc/bluemonday
+# github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
+github.com/rainycape/unidecode
+# golang.org/x/net v0.0.0-20210421230115-4e50805a0758
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# github.com/UserA/ProjectA v0.7.3 => github.com/My/ProjectA v0.0.0-20201223033556-a6833765eebe
