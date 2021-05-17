@@ -37,4 +37,4 @@ github.com/rainycape/unidecode
 # golang.org/x/net v0.0.0-20210421230115-4e50805a0758
 golang.org/x/net/html
 golang.org/x/net/html/atom
-# github.com/UserA/ProjectA v0.7.3 => github.com/My/ProjectA v0.0.0-20201223033556-a6833765eebe
+# github.com/conku/gorm v1.9.18 => github.com/conku/gorm v1.2.0

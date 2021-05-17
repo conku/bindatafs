@@ -15,5 +15,3 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.7 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.9 // indirect
 )
-
-replace github.com/conku/gorm v1.9.18 => github.com/conku/gorm v1.2.0
